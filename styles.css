@@ -421,6 +421,9 @@ Contact
 .contact-info {
   margin: 1rem 0;
 }
+.contact-info {
+  margin-left: 3rem;
+}
 .contact-icon {
   margin-right: 20px;
 }
@@ -443,7 +446,7 @@ Contact
   -webkit-transition: var(--transition);
   -o-transition: var(--transition);
   transition: var(--transition);
-  max-width: 35rem;
+  max-width: 30rem;
 }
 .contact-form:hover {
   -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
@@ -464,7 +467,7 @@ Contact
   margin-bottom: 1.25rem;
   background: var(--clr-grey-10);
   border-radius: var(--radius);
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: var(--spacing);
 }
 .form-control::-webkit-input-placeholder {
