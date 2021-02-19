@@ -332,10 +332,10 @@ About
 
   border: 0.5rem solid var(--clr-primary-orange);
   -webkit-box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.4);
-  object-fit: fill;
+  object-fit: initial;
   box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.4);
   border-radius: var(--radius);
-  max-width: 13.7rem;
+  max-width: 13.9rem;
 
   /* extras */
   overflow: hidden;
