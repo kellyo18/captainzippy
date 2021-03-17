@@ -155,7 +155,7 @@ Hero Banner
 .header {
   min-height: 100%;
   background: -o-linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url("/images/sunset-hero-img16.2.jpg") center/cover no-repeat fixed;
+    url("images/sunset-hero-img16.2.jpg") center/cover no-repeat fixed;
   background: -webkit-gradient(
       linear,
       left top,
@@ -163,9 +163,9 @@ Hero Banner
       from(rgba(0, 0, 0, 0.2)),
       to(rgba(0, 0, 0, 0.2))
     ),
-    url("/images/sunset-hero-img16.2.jpg") center/cover no-repeat fixed;
+    url("images/sunset-hero-img16.2.jpg") center/cover no-repeat fixed;
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url("/images/sunset-hero-img16.2.jpg") center/cover no-repeat fixed;
+    url("images/sunset-hero-img16.2.jpg") center/cover no-repeat fixed;
   position: relative;
   /* overflow: hidden; */
 }
@@ -211,6 +211,7 @@ Hero Banner
   margin-bottom: 0;
   /* width: 13rem; */
 }
+
 /* 
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 Divider
